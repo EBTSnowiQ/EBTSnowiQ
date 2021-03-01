@@ -1,1 +1,1 @@
-# EBTSnowiQ.github.io
+# User Manual
