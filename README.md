@@ -2,9 +2,9 @@
 How to use SnowiQ App
 
 - [Assignments](# )
-- [Accepting and Working assignments](# )
-- [Completing Assignment](# )
-- [Completing Multi-Assignment](# )
+   - [Accepting and Working assignments](# )
+   - [Completing Assignment](# )
+   - [Completing Multi-Assignment](# )
 
       
 
