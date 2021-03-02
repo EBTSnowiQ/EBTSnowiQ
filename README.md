@@ -1,5 +1,5 @@
 # User Manual
-How to use SnowiQ App
+# How to use SnowiQ Driver App
 
 - [Assignments](# )
    - [Accepting and Working assignments](# )
