@@ -42,6 +42,28 @@ If a Driver receives an Assignment with Multi-pass toggle on, it will be indicat
 ![Screenshot 2021-03-02 153140](https://user-images.githubusercontent.com/79857237/109711112-7dab6100-7b6c-11eb-8522-9080ca93f77f.png)
 ![Screenshot 2021-03-02 153202](https://user-images.githubusercontent.com/79857237/109711121-813ee800-7b6c-11eb-98ab-3ad769315369.png)
 
+## Paused/Resumed Assignment
+When a Supervisor pauses a Driver, the Driver's status changes to 'Paused' and the status bar is updated, as shown below. Once the Supervisor resumes the Driver, the previous Assignment is started again and the status returns to 'In Service.'
+
+![Screenshot 2021-03-02 153644](https://user-images.githubusercontent.com/79857237/109711680-2063df80-7b6d-11eb-8a71-4a969581a18d.png)
+
+# Road Hazards
+## Creating Road Hazard
+A Driver can create a road hazard on the map to warn other Drivers of the hazards on their routes, by following the steps below:
+  - On the map, press the road hazard plus icon
+  - The system will display the following 'New road hazard' prompt
+  - Press the type of road hazard from the list and press 'Yes' to confirm the creation of a new road hazard on the next prompt
+  - The system will display the hazards as either a road plate or a warning as seen below
+    - Road plates (orange stacked layers marker): permanent hazard on the road
+    - Temporary hazard (orange warning triangle marker): tree down/power line down, accident, etc.
+    
+       **Note:** These hazards will appear on the map for all Supervisors and Drivers that are working in the same service area
+    
+![Screenshot 2021-03-02 154417](https://user-images.githubusercontent.com/79857237/109712638-46d64a80-7b6e-11eb-99c8-de3918cd153e.png)
+![Screenshot 2021-03-02 154441](https://user-images.githubusercontent.com/79857237/109712647-48a00e00-7b6e-11eb-8b88-f76186aa2895.png)
+
+
+
 
 
 
