@@ -13,7 +13,6 @@
 
 
 # Assignments
-
 ## Accepting and Working Assignments
 When a Supervisor assigns a route, a ticket, or an address-specific assignment, the Driver receives a notification as seen below. Press 'Ok' and follow the steps below:
 
