@@ -22,6 +22,9 @@ The login screen below allows Driver users to enter the SnowIQ Driver Applicatio
 
 Once logged into the DA, Drivers will see the screen below. The screens display two types of drivers logged in, a County Driver and a Contractor. The difference is identified in the status of the Driver. The County Driver, on the left, has a status of 'Ready' whereas the Contractor, on the right, is in 'Standby.' The circle next to the profile picture indicates that this a County Driver and a square is a Contractor. These icons are color coded to match the status.
 
+![Screenshot 2021-03-03 100742](https://user-images.githubusercontent.com/79857237/109826057-6cb02d80-7c08-11eb-963d-7aa5d8c4175c.png)
+![Screenshot 2021-03-03 100807](https://user-images.githubusercontent.com/79857237/109826066-6f128780-7c08-11eb-8104-982e42fc8283.png)
+
 ## Navigation 
 The diagram below highlights basic navigation controls and map elements of the Driver App.
 
