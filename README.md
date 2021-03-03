@@ -1,6 +1,6 @@
 # User Manual
 ## How to use SnowiQ Driver App
-<!-- -->
+<!-- 
 - [1. DA Driver's Activity](#1-DA Driver's Activity)
    * [1.1 Assignments](#11-Assignments)
    * [1.2 Accepting and Working Assignments](#12-Accepting and Working Assignment)
@@ -10,7 +10,7 @@
 - [2. Road Hazards](#2-Road Hazards)
    * [2.1 Creating Road Hazard](#21-Creating Road Hazard)
    * [2.2 Deleting Road Hazard](#22-Deleting Road Hazard)
-   
+   -->
    
 ## Driver App 
 **Both the Android and iOS applications have the same functionality and the screenshots below are a combination of both.**
