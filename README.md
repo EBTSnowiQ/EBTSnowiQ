@@ -30,7 +30,7 @@ The diagram below highlights basic navigation controls and map elements of the D
 1. User Profile Picture, Name, and Status – pressing on the Profile picture opens the Navigation Drawer 
 2. Weather widget – automatically updated based on location
 3. Status bar  
-   3.1 If it is on active assignment, as seen in this diagram, the status bar includes the route number or address being worked, number of miles on the assignment, percentage          completed, status of the assignment and progress bar or 
+   3.1 If it is on active assignment, as seen in this diagram, the status bar includes the route number or address being worked, number of miles on the assignment, percentage          completed, status of the assignment and progress bar
    3.2 If it is in between assignments or no assignments, the system will display the appropriate notification to the user. 
 5. Map – based on the TBD
 6. "My current location on the map" pin
