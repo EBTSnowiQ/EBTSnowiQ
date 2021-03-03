@@ -13,7 +13,7 @@
    -->
    
 ## Driver App 
-**Both the Android and iOS applications have the same functionality and the screenshots below are a combination of both.**
+**Both the Android and iOS applications have the same functionality.** <!-- and the screenshots below are a combination of both.**-->
 
 ## Login 
 The login screen below allows Driver users to enter the SnowIQ Driver Application (DA). Click the appropriate 'Login' button to be re-routed to enter the assigned User Name and Password for the application.
@@ -67,7 +67,9 @@ A Driver user can press on 'Salt Management' to record how much salt was loaded 
 Displays the current version of the app.
 
 ## Logout
-A user must logout at the end of each workday.   
+A user must logout at the end of each workday.  
+
+
 
 ## Driver's Activity
 ##   Assignments
