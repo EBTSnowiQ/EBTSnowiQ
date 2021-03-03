@@ -1,6 +1,6 @@
 # User Manual
 ## How to use SnowiQ Driver App
-
+<!-- -->
 - [1. DA Driver's Activity](#1-DA Driver's Activity)
    * [1.1 Assignments](#11-Assignments)
    * [1.2 Accepting and Working Assignments](#12-Accepting and Working Assignment)
