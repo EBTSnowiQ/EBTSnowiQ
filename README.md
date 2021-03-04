@@ -3,7 +3,7 @@
 - [1. Driver App](#1-Driver App)
 - [2. Login](#2-Login)
 - [3. Navigation](#3-Navigation)
-- [4. Navigation Drawer](#4-Navigation Drawer
+- [4. Navigation Drawer](#4-Navigation Drawer)
    * [4.1 User Profile details](#41-User Profile details)
    * [4.2 Supervisor details](#42-Supervisor details)
    * [4.3 Operations menu](#43-Operations menu)
@@ -17,7 +17,7 @@
    * [5.3 Completing Assignment](#53-Completing Assignment)
    * [5.4 Completing Multi-Pass Assignment](#54-Completing Multi-Pass Assignment)
    * [5.5 Paused/Resumed Assignment](#55-Paused/Resumed Assignment)
-- [6. Road Hazards](#6-Road Hazards)
+- [ Road Hazards](#-Road Hazards)
    * [6.1 Creating Road Hazard](#61-Creating Road Hazard)
    * [6.2 Deleting Road Hazard](#62-Deleting Road Hazard)
    
@@ -122,7 +122,7 @@ When a Supervisor pauses a Driver, the Driver's status changes to 'Paused' and t
 
 ![Screenshot 2021-03-02 153644](https://user-images.githubusercontent.com/79857237/109711680-2063df80-7b6d-11eb-8a71-4a969581a18d.png)
 
-#  Road Hazards <a name="6-Road Hazards"></a>
+#  Road Hazards <a name="-Road Hazards"></a>
 ##   Creating Road Hazard
 A Driver can create a road hazard on the map to warn other Drivers of the hazards on their routes, by following the steps below:
   - On the map, press the road hazard plus icon
