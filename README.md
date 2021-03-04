@@ -7,7 +7,7 @@
    * [1.3 Completing Assignment](#13-Completing Assignment)
    * [1.4 Completing Multi-Pass Assignment](#14-Completing Multi-Pass Assignment)
    * [1.5 Paused/Resumed Assignment](#15-Paused/Resumed Assignment)
-- [2. Road Hazards](#2-Road Hazards)
+- [ Road Hazards](# -Road Hazards)
    * [2.1 Creating Road Hazard](#21-Creating Road Hazard)
    * [2.2 Deleting Road Hazard](#22-Deleting Road Hazard)
    
