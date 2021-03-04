@@ -1,15 +1,25 @@
 # User Manual
 <!-- ## How to use SnowiQ Driver App -->
-
-- [ DA Driver's Activity](#-DA Driver's Activity)
-   * [ Assignments](#-Assignments)
-   * [ Accepting and Working Assignments](#-Accepting and Working Assignment)
-   * [ Completing Assignment](#-Completing Assignment)
-   * [ Completing Multi-Pass Assignment](#-Completing Multi-Pass Assignment)
-   * [ Paused/Resumed Assignment](#-Paused/Resumed Assignment)
-- [Road Hazards](# -Road Hazards)
-   * [ Creating Road Hazard](#-Creating Road Hazard)
-   * [ Deleting Road Hazard](#-Deleting Road Hazard)
+- [1. Driver App](#1-Driver App)
+- [2. Login](#2-Login)
+- [3. Navigation](#3-Navigation)
+- [4. Navigation Drawer](#4-Navigation Drawer
+   * [4.1 User Profile details](#41-User Profile details)
+   * [4.2 Supervisor details](#42-Supervisor details)
+   * [4.3 Operations menu](#43-Operations menu)
+   * [4.4 Profile](#44-Profile)
+   * [4.5 Salt Management](#45-Salt Management)
+   * [4.6 About](#46-About)
+   * [4.7 Logout](#47-Logout)
+- [5. DA Driver's Activity](#5-DA Driver's Activity)
+   * [5.1 Assignments](#51-Assignments)
+   * [5.2 Accepting and Working Assignments](#52-Accepting and Working Assignment)
+   * [5.3 Completing Assignment](#53-Completing Assignment)
+   * [5.4 Completing Multi-Pass Assignment](#54-Completing Multi-Pass Assignment)
+   * [5.5 Paused/Resumed Assignment](#55-Paused/Resumed Assignment)
+- [6. Road Hazards](#6-Road Hazards)
+   * [6.1 Creating Road Hazard](#61-Creating Road Hazard)
+   * [6.2 Deleting Road Hazard](#62-Deleting Road Hazard)
    
    
 ## Driver App 
@@ -47,13 +57,13 @@ The diagram below highlights basic navigation controls and map elements of the D
 
 ## Navigation Drawer
 Users can open the Navigation Drawer by pressing the User Profile picture icon as specified in the diagram above. The panel is divided into three sections:
-#### 1. User Profile details:
+### 1. User Profile details:
 This section lists the profile details of logged in driver. To edit them, the user can press 'Profile' in the section below.
 
-#### 2. Supervisor details:
+### 2. Supervisor details:
 Each driver has a Supervisor they report to and who assigns them work. The Supervisor's name and phone number are listed in this section, with the ability to contact the Supervisor directly from within the app, by pressing the green phone icon.
 
-#### 3. Operations menu:
+### 3. Operations menu:
 The Operations Menu as seen above is for a Driver without any active or future assignments. If a driver receives an assignment or needs to complete an active assignment, an actionable option will be added to the menu, which can be seen here.
 
 ![Screenshot 2021-03-02 132549](https://user-images.githubusercontent.com/79857237/109696248-d671fe00-7b5a-11eb-8e2a-61ad4544589e.png)
@@ -112,7 +122,7 @@ When a Supervisor pauses a Driver, the Driver's status changes to 'Paused' and t
 
 ![Screenshot 2021-03-02 153644](https://user-images.githubusercontent.com/79857237/109711680-2063df80-7b6d-11eb-8a71-4a969581a18d.png)
 
-#  Road Hazards <a name="# -Road Hazards"></a>
+#  Road Hazards <a name="6-Road Hazards"></a>
 ##   Creating Road Hazard
 A Driver can create a road hazard on the map to warn other Drivers of the hazards on their routes, by following the steps below:
   - On the map, press the road hazard plus icon
