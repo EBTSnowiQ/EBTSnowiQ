@@ -1,6 +1,6 @@
 # User Manual
 <!-- ## How to use SnowiQ Driver App -->
-- [ Driver App](#-Driver App)
+- [ Driver-App](#-Driver-App)
 - [ Login](#-Login)
 - [ Navigation](#-Navigation)
 - [ Navigation-Drawer](#-Navigation-Drawer)
@@ -136,7 +136,7 @@ A Driver can create a road hazard on the map to warn other Drivers of the hazard
 ![Screenshot 2021-03-02 154417](https://user-images.githubusercontent.com/79857237/109712638-46d64a80-7b6e-11eb-99c8-de3918cd153e.png)
 ![Screenshot 2021-03-02 154441](https://user-images.githubusercontent.com/79857237/109712647-48a00e00-7b6e-11eb-8b88-f76186aa2895.png)
 
-##    Deleting Road Hazard 
+##    Deleting Road Hazard <a name="-Deleting-Road-Hazard"></a>
 A Driver can delete an existing road hazard from the map if it doesn't exist anymore: 
   - Press on an existing road hazard on the map
   - The system will display the following 'Road hazard info' prompt
