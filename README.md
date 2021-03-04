@@ -108,7 +108,7 @@ A user must logout at the end of each workday.
 
 
 
-## Driver's Activity
+## Driver's Activity <a name="-Driver's Activity"></a>
 ##   Assignments
 ##   Accepting and Working Assignments
 When a Supervisor assigns a route, a ticket, or an address-specific assignment, the Driver receives a notification as seen below. Press 'Ok' and follow the steps below:
