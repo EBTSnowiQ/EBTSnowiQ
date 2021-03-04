@@ -5,7 +5,7 @@
 - [2. Login](#2-Login)
 - [3. Navigation](#3-Navigation)
 - [4. Navigation Drawer](#4-Navigation-Drawer)
-   * [4.1 User Profile details](#41-User Profile-details)
+   * [4.1 User Profile details](#41-User-Profile-details)
    * [4.2 Supervisor details](#42-Supervisor-details)
    * [4.3 Operations menu](#43-Operations-menu)
    * [4.4 Profile](#44-Profile)
