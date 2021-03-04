@@ -1,26 +1,26 @@
 # User Manual
 <!-- ## How to use SnowiQ Driver App -->
 
-- [1. Driver App](#1-Driver App)
+- [1. Driver App](#1-Driver-App)
 - [2. Login](#2-Login)
 - [3. Navigation](#3-Navigation)
-- [4. Navigation Drawer](#4-Navigation Drawer)
-   * [4.1 User Profile details](#41-User Profile details)
-   * [4.2 Supervisor details](#42-Supervisor details)
-   * [4.3 Operations menu](#43-Operations menu)
+- [4. Navigation Drawer](#4-Navigation-Drawer)
+   * [4.1 User Profile details](#41-User Profile-details)
+   * [4.2 Supervisor details](#42-Supervisor-details)
+   * [4.3 Operations menu](#43-Operations-menu)
    * [4.4 Profile](#44-Profile)
-   * [4.5 Salt Management](#45-Salt Management)
+   * [4.5 Salt Management](#45-Salt-Management)
    * [4.6 About](#46-About)
    * [4.7 Logout](#47-Logout)
-- [5. DA Driver's Activity](#5-DA Driver's Activity)
+- [5. DA Driver's Activity](#5-DA Driver's-Activity)
    * [5.1 Assignments](#51-Assignments)
-   * [5.2 Accepting and Working Assignments](#52-Accepting and Working Assignment)
+   * [5.2 Accepting and Working Assignments](#52-Accepting-and-Working-Assignment)
    * [5.3 Completing Assignment](#53-Completing Assignment)
-   * [5.4 Completing Multi-Pass Assignment](#54-Completing Multi-Pass Assignment)
-   * [5.5 Paused/Resumed Assignment](#55-Paused/Resumed Assignment)
-- [6. Road Hazards](#6-Road Hazards)
-   * [6.1 Creating Road Hazard](#61-Creating Road Hazard)
-   * [6.2 Deleting Road Hazard](#62-Deleting Road Hazard)
+   * [5.4 Completing Multi-Pass Assignment](#54-Completing-Multi-Pass-Assignment)
+   * [5.5 Paused/Resumed Assignment](#55-Paused/Resumed-Assignment)
+- [6. Road Hazards](#6-Road-Hazards)
+   * [6.1 Creating Road Hazard](#61-Creating-Road-Hazard)
+   * [6.2 Deleting Road Hazard](#62-Deleting-Road-Hazard)
    
   <!--
 - [ Driver App](#-Driver App)
@@ -44,6 +44,7 @@
    * [ Creating Road Hazard](#-Creating Road Hazard)
    * [ Deleting Road Hazard](#-Deleting Road Hazard)
     -->
+    
 ## Driver App 
 **Both the Android and iOS applications have the same functionality.** <!-- and the screenshots below are a combination of both.**-->
 
@@ -144,8 +145,8 @@ When a Supervisor pauses a Driver, the Driver's status changes to 'Paused' and t
 
 ![Screenshot 2021-03-02 153644](https://user-images.githubusercontent.com/79857237/109711680-2063df80-7b6d-11eb-8a71-4a969581a18d.png)
 
-#  Road Hazards <a name="6-Road Hazards"></a>
-##   Creating Road Hazard <a name="61-Creating Road Hazards"></a>
+#  Road Hazards <a name="6-Road-Hazards"></a>
+##   Creating Road Hazard <a name="61-Creating-Road-Hazards"></a>
 A Driver can create a road hazard on the map to warn other Drivers of the hazards on their routes, by following the steps below:
   - On the map, press the road hazard plus icon
   - The system will display the following 'New road hazard' prompt
@@ -159,7 +160,7 @@ A Driver can create a road hazard on the map to warn other Drivers of the hazard
 ![Screenshot 2021-03-02 154417](https://user-images.githubusercontent.com/79857237/109712638-46d64a80-7b6e-11eb-99c8-de3918cd153e.png)
 ![Screenshot 2021-03-02 154441](https://user-images.githubusercontent.com/79857237/109712647-48a00e00-7b6e-11eb-8b88-f76186aa2895.png)
 
-##    Deleting Road Hazard <a name="62-Deleting Road Hazards"></a>
+##    Deleting Road Hazard <a name="62-Deleting-Road-Hazards"></a>
 A Driver can delete an existing road hazard from the map if it doesn't exist anymore: 
   - Press on an existing road hazard on the map
   - The system will display the following 'Road hazard info' prompt
