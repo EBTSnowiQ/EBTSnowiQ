@@ -112,7 +112,7 @@ When a Supervisor pauses a Driver, the Driver's status changes to 'Paused' and t
 
 ![Screenshot 2021-03-02 153644](https://user-images.githubusercontent.com/79857237/109711680-2063df80-7b6d-11eb-8a71-4a969581a18d.png)
 
-#  Road Hazards <a name="2-Road Hazards"></a>
+#  Road Hazards <a name="#-Road Hazards"></a>
 ##   Creating Road Hazard
 A Driver can create a road hazard on the map to warn other Drivers of the hazards on their routes, by following the steps below:
   - On the map, press the road hazard plus icon
