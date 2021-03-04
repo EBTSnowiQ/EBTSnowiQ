@@ -1,15 +1,15 @@
 # User Manual
 <!-- ## How to use SnowiQ Driver App -->
 
-- [1. DA Driver's Activity](#1-DA Driver's Activity)
-   * [1.1 Assignments](#11-Assignments)
-   * [1.2 Accepting and Working Assignments](#12-Accepting and Working Assignment)
-   * [1.3 Completing Assignment](#13-Completing Assignment)
-   * [1.4 Completing Multi-Pass Assignment](#14-Completing Multi-Pass Assignment)
-   * [1.5 Paused/Resumed Assignment](#15-Paused/Resumed Assignment)
-- [ Road Hazards](# -Road Hazards)
-   * [2.1 Creating Road Hazard](#21-Creating Road Hazard)
-   * [2.2 Deleting Road Hazard](#22-Deleting Road Hazard)
+- [ DA Driver's Activity](#-DA Driver's Activity)
+   * [ Assignments](#-Assignments)
+   * [ Accepting and Working Assignments](#-Accepting and Working Assignment)
+   * [ Completing Assignment](#-Completing Assignment)
+   * [ Completing Multi-Pass Assignment](#-Completing Multi-Pass Assignment)
+   * [ Paused/Resumed Assignment](#-Paused/Resumed Assignment)
+- [ Road Hazards](#-Road Hazards)
+   * [ Creating Road Hazard](#-Creating Road Hazard)
+   * [ Deleting Road Hazard](#-Deleting Road Hazard)
    
    
 ## Driver App 
