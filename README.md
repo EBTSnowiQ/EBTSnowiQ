@@ -145,7 +145,7 @@ When a Supervisor pauses a Driver, the Driver's status changes to 'Paused' and t
 ![Screenshot 2021-03-02 153644](https://user-images.githubusercontent.com/79857237/109711680-2063df80-7b6d-11eb-8a71-4a969581a18d.png)
 
 #  Road Hazards <a name="-Road Hazards"></a>
-##   Creating Road Hazard
+##   Creating Road Hazard <a name="-Creating Road Hazards"></a>
 A Driver can create a road hazard on the map to warn other Drivers of the hazards on their routes, by following the steps below:
   - On the map, press the road hazard plus icon
   - The system will display the following 'New road hazard' prompt
@@ -159,7 +159,7 @@ A Driver can create a road hazard on the map to warn other Drivers of the hazard
 ![Screenshot 2021-03-02 154417](https://user-images.githubusercontent.com/79857237/109712638-46d64a80-7b6e-11eb-99c8-de3918cd153e.png)
 ![Screenshot 2021-03-02 154441](https://user-images.githubusercontent.com/79857237/109712647-48a00e00-7b6e-11eb-8b88-f76186aa2895.png)
 
-##    Deleting Road Hazard
+##    Deleting Road Hazard <a name="-Deleting Road Hazards"></a>
 A Driver can delete an existing road hazard from the map if it doesn't exist anymore: 
   - Press on an existing road hazard on the map
   - The system will display the following 'Road hazard info' prompt
