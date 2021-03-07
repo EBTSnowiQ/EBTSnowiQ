@@ -64,3 +64,4 @@ The login screen below allows Supervisor users to enter into
  # **Clusters**
  On the Map Monitoring view, When a user zooms outs, markers with numbers inside them appear called 'clusters' that de-clutter the map and group together like markers. Clicking on a cluster allows to user to zoom in on that area and view the separated markers on the map.
  
+ 
