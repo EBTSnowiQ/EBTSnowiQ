@@ -1,1 +1,13 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: SnowiQ App Manual
+author:
+  name: Eastbanc Technologies
+  email: contact@eastbanctech.com
+  description: "User Manual for SnowiQ App on GH-Pages"
+  
+  # Build settings
+  remote_theme: jekyll/minima
+
+
+
+
