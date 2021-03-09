@@ -1,6 +1,7 @@
 ---
 layout: home 
 title: SnowiQ
+theme: cayman
 ---
 
 # **Welcome to SNOWiQ APP**
