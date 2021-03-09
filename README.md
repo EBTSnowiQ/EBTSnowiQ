@@ -147,7 +147,7 @@ A Driver can delete an existing road hazard from the map if it doesn't exist any
 
 
 
-[Check out this page](https://github.com/EBTSnowiQ/ebtsnowiQ/blob/main/SA%20Login%20and%20Navigation.md)
+
 
 
 
