@@ -1,7 +1,7 @@
 ---
 layout: home 
 title: SnowiQ
-theme: cayman
+theme: minima
 ---
 
 # **Welcome to SNOWiQ APP**
