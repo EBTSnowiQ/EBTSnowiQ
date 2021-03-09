@@ -22,6 +22,8 @@ The Map Monitoring view is the first page that users see when logging in, which 
 
   ![Screenshot 2021-03-04 1377777]('images/Screenshot 2021-03-09 105249.png')
 
+  ![SNOWiQ Splash screen](/GitHub/images/Screenshot%202021-03-09%20105249.png)
+
   ## **Filters**
 
   Using the filters at the top of the Map Monitoring view allows users to narrow down what is seen on the map. Setting a filter can add or remove map elements such as route outlines, routes of different priorities, and routes/drivers that belong to a specific depot. Below are the filters and their options:
