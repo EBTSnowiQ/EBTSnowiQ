@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SnowiQ
-theme: cayman
+theme: jekyll-theme-cayman
 ---
 
 # **Welcome to SNOWiQ APP**
