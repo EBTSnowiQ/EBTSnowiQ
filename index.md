@@ -1,7 +1,7 @@
 ---
 layout: home
 title: SnowiQ
-theme: jekyll-theme-minima
+theme: minima
 ---
 
 # **Welcome to SNOWiQ APP**
