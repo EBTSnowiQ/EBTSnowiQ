@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SnowiQ
-theme: jekyll-theme-doc
+theme: jekyll-theme-minimal
 ---
 
 # **Welcome to SNOWiQ APP**
