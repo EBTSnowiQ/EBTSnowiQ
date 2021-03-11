@@ -1,5 +1,5 @@
 ---
-layout: sidebars
+layout: page
 ---
 
 # Drivers App
