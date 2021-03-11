@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Guide and Term Dictionary
+theme: jekyll-theme-cayman
 ---
 
 - [What is SNOWiQ ?](#-What-is-SNOWiQ-?)
