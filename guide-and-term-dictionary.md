@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Guide and Term Dictionary
-theme: jekyll-theme-minima
+theme: minima
 ---
 
 - [What is SNOWiQ ?](#-What-is-SNOWiQ-?)
