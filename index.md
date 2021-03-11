@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: blog
 title: SnowiQ
 theme: minima
 ---
