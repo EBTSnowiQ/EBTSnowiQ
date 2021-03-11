@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: categories
 title: SnowiQ
 theme: jekyll-theme-minimal
 ---
