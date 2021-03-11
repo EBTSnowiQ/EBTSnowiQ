@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: SnowiQ
 theme: jekyll-theme-minimal
 ---
