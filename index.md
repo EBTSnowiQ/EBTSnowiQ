@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: SnowiQ
 theme: jekyll-theme-minimal
 ---
