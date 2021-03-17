@@ -16,7 +16,7 @@ theme: cayman
 
 ![dfhv-download](https://user-images.githubusercontent.com/79857237/111482695-87a39700-870a-11eb-934d-0a652a60a999.png)
 
-**After the donloading is complete allow DFHV Limo to access device's location and access photos,media and files on your device by tapping the "ALLOW" button.**
+**After the downloading is complete allow DFHV Limo to access device's location and access photos,media and files on your device by tapping the "ALLOW" button.**
 
 ![dfhv-allow](https://user-images.githubusercontent.com/79857237/111482708-8a05f100-870a-11eb-9753-a35d15fbe0ee.png)
 ![dfhv-allow1](https://user-images.githubusercontent.com/79857237/111484765-6e034f00-870c-11eb-9897-60e7de577966.png)
