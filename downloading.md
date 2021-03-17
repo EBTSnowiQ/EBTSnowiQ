@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Downloading 
+layout: page 
 ---
 
 ## Downloading DFHV Limo App 
