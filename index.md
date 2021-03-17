@@ -19,6 +19,7 @@ theme: cayman
 **After the downloading is complete allow DFHV Limo to access device's location and access photos,media and files on your device by tapping the "ALLOW" button.**
 
 ![dfhv-allow](https://user-images.githubusercontent.com/79857237/111482708-8a05f100-870a-11eb-9753-a35d15fbe0ee.png)
+
 ![dfhv-allow1](https://user-images.githubusercontent.com/79857237/111484765-6e034f00-870c-11eb-9897-60e7de577966.png)
 
 # Login <a name="-Login"></a>
@@ -34,12 +35,14 @@ theme: cayman
 **After successful login, tap "On duty" button to start tracking on duty location (the text on the button will change to Off)**
 
 ![dfhv-off-duty](https://user-images.githubusercontent.com/79857237/111484802-7491c680-870c-11eb-9bbf-07a01f600b75.png)
+
 ![dfhv-on-duty](https://user-images.githubusercontent.com/79857237/111484812-765b8a00-870c-11eb-8ceb-ff130960055d.png)
 
 # Tracking Trips <a name="-Tracking-Trips"></a>
 **Tracking trips information only available in "On duty"" status. Before starting the trip tap "Start trip" (Current status will change to "Trip started") and start driving.**
 
 ![dfhv-on-duty](https://user-images.githubusercontent.com/79857237/111484812-765b8a00-870c-11eb-8ceb-ff130960055d.png)
+
 ![dfhv-start-trip](https://user-images.githubusercontent.com/79857237/111485895-67c1a280-870d-11eb-838a-27bc452e062d.png)
 
 **After completing the trip, tap "End trip" button.**
@@ -53,6 +56,7 @@ theme: cayman
 **Tap on the "Trip manifest" button to see the trips in the past.**
 
 ![dfhv-on-duty](https://user-images.githubusercontent.com/79857237/111484812-765b8a00-870c-11eb-8ceb-ff130960055d.png)
+
 ![dfhv-trips](https://user-images.githubusercontent.com/79857237/111484837-7bb8d480-870c-11eb-90b4-b430e40351f0.png)
 
 
