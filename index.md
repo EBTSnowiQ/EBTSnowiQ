@@ -20,7 +20,7 @@ title: DFHV Limo App Manual
 
 ![dfhv-allow](https://user-images.githubusercontent.com/79857237/111482708-8a05f100-870a-11eb-9753-a35d15fbe0ee.png)
 
-![dfhv-allow1](https://user-images.githubusercontent.com/79857237/111484765-6e034f00-870c-11eb-9897-60e7de577966.png)
+![dfhv-allow2](https://user-images.githubusercontent.com/79857237/111496414-ae67ca80-8716-11eb-9eec-f04749e7e0ea.png)
 
 # Login <a name="-Login"></a>
 **To login enter "Face ID/Driver ID and License Plate" and tap "Log in" button.**
@@ -64,6 +64,9 @@ title: DFHV Limo App Manual
 **To log out tap on "About" button and tap "Log out" button.**
 
 ![dfhv-about](https://user-images.githubusercontent.com/79857237/111484850-7eb3c500-870c-11eb-8b26-1df79ba9557d.png)
+
+
+
 
 
 
