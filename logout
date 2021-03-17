@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Logout
+author:
+ name: Eastbanc Technologies
+description: "DFHV Limo App Manual on GitHub Pages" 
 ---
 
 # Logout <a name="-Logout"></a>
