@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Login 
+layout: page 
 ---
 
 # Login
