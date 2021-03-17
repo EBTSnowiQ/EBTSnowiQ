@@ -1,6 +1,6 @@
 ---
+layout: default
 title: DFHV Limo App Manual
-theme: cayman
 ---
 
 # Table of Content
