@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: DFHV Limo App Manual
 author:
  name: Eastbanc Technologies
