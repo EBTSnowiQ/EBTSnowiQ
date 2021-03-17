@@ -1,9 +1,5 @@
 ---
-layout: page
-title: DFHV Limo App Manual
-author:
- name: Eastbanc Technologies
-description: "DFHV Limo App Manual on GitHub Pages" 
+layout: home 
 ---
 
 ![dfhv](https://user-images.githubusercontent.com/79857237/111498881-c2acc700-8718-11eb-83fb-e6e29162db81.png)
