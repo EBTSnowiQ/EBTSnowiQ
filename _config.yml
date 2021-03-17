@@ -6,3 +6,5 @@ description: "DFHV Limo App Manual on GitHub Pages"
  
  # Build settings
 remote_theme: jekyll/minima
+minima:
+  skin: dark
