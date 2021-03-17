@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Login
+author:
+ name: Eastbanc Technologies
+description: "DFHV Limo App Manual on GitHub Pages" 
 ---
 
 # Login
