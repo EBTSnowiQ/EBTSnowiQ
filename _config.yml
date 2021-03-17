@@ -1,7 +1,7 @@
 # Site setting
-description: "DFHV Limo App Manual on GitHub Pages"
 author:
  name: Eastbanc Technologies
+description: "DFHV Limo App Manual on GitHub Pages" 
  
  # Build settings
-theme: jekyll-theme-minima
+remote_theme: jekyll/minima
