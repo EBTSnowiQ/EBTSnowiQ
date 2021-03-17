@@ -3,7 +3,7 @@ layout: page
 title: Tracking Trips 
 ---
 
-# Tracking Trips
+
 **Tracking trips information only available in "On duty" status. Before starting the trip tap "Start trip" (Current status will change to "Trip started") and start driving.**
 
 ![dfhv-on-duty](https://user-images.githubusercontent.com/79857237/111484812-765b8a00-870c-11eb-8ceb-ff130960055d.png)
