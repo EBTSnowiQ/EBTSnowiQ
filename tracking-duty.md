@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tracking On/Off Duty
+title: Tracking Duty
 ---
 
 # Tracking On/Off Duty <a name="-Tracking-On/Off-Duty"></a>
