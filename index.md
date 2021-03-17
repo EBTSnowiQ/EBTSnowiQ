@@ -14,7 +14,7 @@ title: DFHV Limo App Manual
 # Downloading DFHV Limo App <a name="-Downloading-DFHV-Limo-App"></a>
 **Navigate to the Google Play Store/Apple Store  and install DFHV Limo App**
 
-![dfhv-download](https://user-images.githubusercontent.com/79857237/111482695-87a39700-870a-11eb-934d-0a652a60a999.png)
+![dfhv-install](https://user-images.githubusercontent.com/79857237/111497915-e0c5f780-8717-11eb-91fa-d5bdebd64ecb.png)
 
 **After the downloading is complete allow DFHV Limo to access device's location and access photos,media and files on your device by tapping the "ALLOW" button.**
 
