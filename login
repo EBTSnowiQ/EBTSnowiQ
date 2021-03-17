@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Login
 author:
  name: Eastbanc Technologies
