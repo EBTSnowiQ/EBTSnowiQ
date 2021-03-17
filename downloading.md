@@ -1,8 +1,9 @@
 ---
 layout: page 
+title: Downloading DFHV Limo App
 ---
 
-## Downloading DFHV Limo App 
+
 ### **Navigate to the Google Play Store/Apple Store  and install DFHV Limo App**
 
 ![dfhv-install](https://user-images.githubusercontent.com/79857237/111497915-e0c5f780-8717-11eb-91fa-d5bdebd64ecb.png)
