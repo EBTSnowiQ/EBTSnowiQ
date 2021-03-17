@@ -7,6 +7,7 @@ title: Tracking Trips
 **Tracking trips information only available in "On duty" status. Before starting the trip tap "Start trip" (Current status will change to "Trip started") and start driving.**
 
 ![dfhv-on-duty](https://user-images.githubusercontent.com/79857237/111484812-765b8a00-870c-11eb-8ceb-ff130960055d.png)
+
 ![dfhv-start-trip](https://user-images.githubusercontent.com/79857237/111485895-67c1a280-870d-11eb-838a-27bc452e062d.png)
 
 **After completing the trip, tap "End trip" button.**
@@ -20,4 +21,5 @@ title: Tracking Trips
 **Tap on the "Trip manifest" button to see the trips in the past.**
 
 ![dfhv-on-duty](https://user-images.githubusercontent.com/79857237/111484812-765b8a00-870c-11eb-8ceb-ff130960055d.png)
+
 ![dfhv-trips](https://user-images.githubusercontent.com/79857237/111484837-7bb8d480-870c-11eb-90b4-b430e40351f0.png)
