@@ -1,8 +1,9 @@
 ---
 layout: page 
+title: Login
 ---
 
-# Login
+
 **To login enter "Face ID/Driver ID and License Plate" and tap "Log in" button.**
 
 ![dfhv-login](https://user-images.githubusercontent.com/79857237/111484778-7065a900-870c-11eb-9a05-f66fba0f5771.png)
