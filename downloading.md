@@ -10,6 +10,18 @@ title: Downloading DFHV Limo App
 
 ### After the downloading is complete allow DFHV Limo to access device's location and access photos,media and files on your device by tapping the "ALLOW" button.
 
-![dfhv-allow](https://user-images.githubusercontent.com/79857237/111482708-8a05f100-870a-11eb-9753-a35d15fbe0ee.png)
+![dfhv-allow](https://user-images.githubusercontent.com/79857237/111625583-6357c100-87c3-11eb-9149-d3894fbd4003.png)
+
 ![dfhv-allow2](https://user-images.githubusercontent.com/79857237/111496414-ae67ca80-8716-11eb-9eec-f04749e7e0ea.png)
 
+
+
+
+
+
+
+
+
+
+
+![dfhv-allow](https://user-images.githubusercontent.com/79857237/111482708-8a05f100-870a-11eb-9753-a35d15fbe0ee.png)
